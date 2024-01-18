@@ -1,0 +1,18 @@
+{
+  "name": "vitest-issue-typecheck-ignores-file-filter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest --typecheck"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "typescript": "^5.3.3",
+    "vite": "^5.0.11",
+    "vitest": "^1.2.1"
+  }
+}
